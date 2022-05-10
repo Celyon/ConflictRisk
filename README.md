@@ -1,6 +1,6 @@
 1.Description
 
-Replication materials for Q Ge#, M Hao#, F Ding*, D Jiang*, J Scheffran, D Helman, T Ide.(2022). Modelling armed conflict risk under climate change with machine learning and time-series data.
+Replication materials for Q Ge#, M Hao#, F Ding*, D Jiang*, J Scheffran, D Helman, T Ide. (2022). Modelling armed conflict risk under climate change with machine learning and time-series data.
 
 The materials in this repository allow users to reproduce the data analysis appearing in the paper.
 
